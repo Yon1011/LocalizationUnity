@@ -14,7 +14,67 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: Table
   m_TableCollectionNameGuidString: 79124c9f7ad270342a243ddc70122d61
-  m_Entries: []
+  m_Entries:
+  - m_Id: 23534460928
+    m_Key: crafting_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821056
+    m_Key: btn_create_story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821057
+    m_Key: setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821058
+    m_Key: plot_question_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821059
+    m_Key: hero_question_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821060
+    m_Key: encounter_question_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821061
+    m_Key: location_question_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821062
+    m_Key: theme_question_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821063
+    m_Key: create_story_now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821064
+    m_Key: initial_selection_hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821065
+    m_Key: creating_book_loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821066
+    m_Key: story_not_available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821067
+    m_Key: create_story_now_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821068
+    m_Key: create_story_now_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821069
+    m_Key: duplicate_book
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

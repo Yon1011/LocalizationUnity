@@ -17,7 +17,69 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 79124c9f7ad270342a243ddc70122d61, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 23534460928
+    m_Localized: "Ton histoire est pr\xEAte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821056
+    m_Localized: Allons-y !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821057
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821058
+    m_Localized: De quoi parle ton histoire ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821059
+    m_Localized: "Qui est le h\xE9ros de ton histoire ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821060
+    m_Localized: "Qui va aider ton h\xE9ros ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821061
+    m_Localized: "O\xF9 se d\xE9roulera ton histoire ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821062
+    m_Localized: "Qu\u2019apprendront tes personnages ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821063
+    m_Localized: "Excellents choix ! J'ai h\xE2te de lire ton histoire !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821064
+    m_Localized: "Choisis tes 2 personnages pr\xE9f\xE9r\xE9s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821065
+    m_Localized: "Pr\xE9pare-toi \xE0 cr\xE9er ton histoire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821066
+    m_Localized: Cette histoire est temporairement indisponible. Merci de choisir
+      une autre combinaison.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821067
+    m_Localized: "Bien jou\xE9 ! Je me demande de quoi va parler cette histoire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821068
+    m_Localized: "Bon travail ! D\xE9couvrons ensemble ton histoire !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821069
+    m_Localized: "Tu as d\xE9j\xE0 ce livre dans ta biblioth\xE8que. Essaie une combinaison
+      diff\xE9rente !"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

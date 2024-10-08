@@ -17,7 +17,67 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 79124c9f7ad270342a243ddc70122d61, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 23534460928
+    m_Localized: Your story is ready.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821056
+    m_Localized: Let's go!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821057
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821058
+    m_Localized: What is your story about?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821059
+    m_Localized: Who is the hero of your story?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821060
+    m_Localized: Who will help your hero?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821061
+    m_Localized: Where will your story take place?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821062
+    m_Localized: What will your characters learn?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821063
+    m_Localized: Great choices! I can't wait to read your story!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821064
+    m_Localized: Choose your 2 favourite characters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821065
+    m_Localized: Getting ready to craft your story.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821066
+    m_Localized: This story is temporarily unavailable. Please choose another combination.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821067
+    m_Localized: Well done! I wonder what this story will be about.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821068
+    m_Localized: Good job! Let's discover your story together!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23563821069
+    m_Localized: You already have this book in your bookshelf. Try a different combination!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
