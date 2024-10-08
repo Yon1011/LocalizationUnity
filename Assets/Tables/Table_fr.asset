@@ -80,6 +80,11 @@ MonoBehaviour:
       diff\xE9rente !"
     m_Metadata:
       m_Items: []
+  - m_Id: 3532447244288
+    m_Localized: "Un peu de patience ! Tes jeux sont en cours de chargement\u2026
+      Pr\xE9pare-toi \xE0 t'amuser !"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

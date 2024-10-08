@@ -75,6 +75,10 @@ MonoBehaviour:
     m_Key: duplicate_book
     m_Metadata:
       m_Items: []
+  - m_Id: 3532447244288
+    m_Key: txt_loading_quiz
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

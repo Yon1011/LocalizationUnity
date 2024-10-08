@@ -78,6 +78,10 @@ MonoBehaviour:
     m_Localized: You already have this book in your bookshelf. Try a different combination!
     m_Metadata:
       m_Items: []
+  - m_Id: 3532447244288
+    m_Localized: Hang tight! Your games are loading... Get ready for some fun!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
